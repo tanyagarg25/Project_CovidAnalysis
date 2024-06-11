@@ -6,12 +6,12 @@ Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, 
 */
 
 Select *
-From PortfolioProject..CovidDeaths
+From PortfolioProject.CovidDeaths
 Where continent is not null 
 order by 3,4
 
 
--- Select Data that we are going to be starting with
+-- Selecting Data that we are going to be starting with
 
 Select Location, date, total_cases, new_cases, total_deaths, population
 From PortfolioProject.CovidDeaths
