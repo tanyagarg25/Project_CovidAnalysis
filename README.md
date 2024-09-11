@@ -48,6 +48,5 @@ Update the dashboard with the latest data to keep insights current.
 Explore additional variables such as vaccination rates and new variants for more comprehensive analysis.
 Consider integrating other data sources to provide a more complete picture of the pandemic’s effects.
 
-![Dashboard 1](https://github.com/user-attachments/assets/a98ba926-03bc-4b60-bb12-172ccd8585b3)
 
 
